@@ -1,0 +1,22 @@
+.freenug{
+    width: 100%;
+}
+.list-one{
+    color: black;
+    list-style: none;
+}
+.list{
+    list-style-type: none;
+}
+a{
+    color: black;
+}
+.box{
+    z-index: 20;
+    width: 100%;
+    background-color: white;
+}
+ul{
+    list-style: none;
+    
+}
